@@ -43,5 +43,5 @@ The obtained predictions will then be compared to the prediction from a linear r
 1. Comparison to Linear Regression
 1. Conclusion
 
-![](./comparison.png)
+![](./model_comparison.png)
 
