@@ -22,7 +22,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?) ([HTML](./BikeSales_EDA_GridSearch_GD.html))([Jupyter Notebook](./BikeSales_EDA_GridSearch_GD.ipynb)).
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Grid_Search_GD/main/BikeSales_EDA_GridSearch_GD.html) ([HTML](./BikeSales_EDA_GridSearch_GD.html))([Jupyter Notebook](./BikeSales_EDA_GridSearch_GD.ipynb)).
 
 The analysis results with theoretical backgrounds are included.
 
