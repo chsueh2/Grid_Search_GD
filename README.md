@@ -34,12 +34,13 @@ Conduct an exploratory data analysis (EDA) on selling prices of used motorcycles
 
 The obtained predictions will then be compared to the prediction from a linear regression.
 
-## Part 1 - Data and EDA
+## Workflow
 
-## Part 2 - Prediction Using Grid Search
+1. Data and EDA
+1. Prediction Algorithms
+   - Grid Search
+   - Gradient Descent
+1. Comparison to Linear Regression
+1. Conclusion
 
-## Part 3 - Prediction Using Gradient Descent
-
-## Part 4 - COmparison to Linear Regressn and Conclusion
-
-Analyze and summarize the results using faceted line plots for easy comparison.
+[](./comparison.png)
