@@ -2,6 +2,8 @@
 
 Exploratory data analysis (EDA) is conducted on a dataset for selling prices of used motorcycles. The selling prices are predicted using algorithms like Grid Search and Gradient Descent which are built from scratch.
 
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Grid_Search_GD/main/BikeSales_EDA_GridSearch_GD.html)
+
 Key features:
 
 - Exploratory data analysis (EDA)
