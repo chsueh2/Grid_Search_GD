@@ -47,3 +47,13 @@ The obtained predictions will then be compared to the prediction from a linear r
 
 ![](./model_comparison.png)
 
+![](./image1.png)
+
+![](./image2.png)
+
+![](./image3.png)
+
+![](./image4.png)
+
+![](./image5.png)
+
