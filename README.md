@@ -45,15 +45,15 @@ The obtained predictions will then be compared to the prediction from a linear r
 1. Comparison to Linear Regression
 1. Conclusion
 
-![](./model_comparison.png)
+![](./images/model_comparison.png)
 
-![](./image1.png)
+![](./images/image1.png)
 
-![](./image2.png)
+![](./images/image2.png)
 
-![](./image3.png)
+![](./images/image3.png)
 
-![](./image4.png)
+![](./images/image4.png)
 
 ![](./image5.png)
 
